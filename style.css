@@ -1,0 +1,197 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(20, 20, 20);
+}
+nav {
+    border-bottom: 4px solid white ;
+    border-top: 4px solid white;
+   display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav a {
+    font-size: 20px;
+text-decoration: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+nav a {
+    text-decoration: none; 
+   color: grey;   
+}
+header img {
+float: left;
+position: absolute;
+top: 10px;
+border: 1px solid slategray;
+border-radius: 20px;
+}
+h1 {
+    text-align: center;
+    color:slategray;
+}
+#spanq {
+    color: red;
+}
+#spanw {
+    color: snow;
+}
+nav a {
+    text-shadow: 2px 2px 2px rgb(187, 187, 187);
+}
+#nav-link1 {
+    margin-left: 15px;
+}
+#nav-link6 {
+    margin-right: 15px;
+}
+#nav-link1:hover {
+color: brown;
+transition: 2s linear;
+text-shadow: none;
+}
+#nav-link2:hover {
+    color: brown;
+    transition: 2s linear;
+    text-shadow: none;
+}
+#nav-link3:hover {
+color: brown;
+transition: 2s linear;
+text-shadow: none;
+}
+#nav-link4:hover {
+color: brown;
+transition: 2s linear;
+text-shadow: none;
+}
+#nav-link5:hover {
+    color: brown;
+    transition: 2s linear;
+    text-shadow: none;
+}
+#nav-link6:hover {
+color: brown;
+transition: 2s linear;
+text-shadow: none;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+.Wiki {
+    text-decoration: none;
+    color:rgb(187, 187, 187);
+}
+.Wiki:hover {
+    text-shadow: 6px 6px 2px rgb(187, 187, 187);
+    transition: 5s linear;
+    color: white;
+}
+.decoration {
+    text-decoration: none;
+    color: white;
+    text-shadow:3px 3px 2px rgb(187, 187, 187) ;
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+}
+.decoration:hover {
+    color: brown;
+    text-shadow: 3px 3px 2px rgb(156, 78, 93);
+    transition: 2s linear;
+}
+.photodecor1 {
+    border-radius: 20px;
+    width: 400px ;
+    height: 300px;
+   position: relative;
+    left: 1050px; 
+    bottom: 125px;
+}
+.photodecor2 {
+    border-radius: 20px;
+    width: 400px ;
+    height: 300px; 
+    position: relative; 
+    left: 50px;
+    top: 100px;
+}
+.photodecor3 {
+    border-radius: 20px;
+    width: 400px ;
+    height: 300px;
+    position: relative;
+    left: 1050px; 
+    bottom: 150px; 
+}
+.photodecor4 {
+    border-radius: 20px;
+    width: 400px ;
+    height: 300px; 
+    position: relative; 
+    left: 50px;
+    top: 100px;
+}
+.photodecor5 {
+    border-radius: 20px;
+    width: 400px ;
+    height: 300px;
+    position: relative;
+    left: 1050px;  
+    bottom: 250px;
+}
+.photodecor6 {
+    border-radius: 20px;
+    width: 400px ;
+    height: 300px; 
+    position: relative; 
+    left: 50px;
+    top: 140px;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+ul {
+    color: white;   
+}
+li {
+    text-shadow: 6px 6px 2px slategrey;
+}
+li:hover {
+color: rgb(98, 104, 110);
+transition: 5s linear;
+text-shadow: 8px 6px white;
+}
+footer {
+    text-align: center; 
+}
+footer a {
+    text-decoration: none;
+    color:rgb(187, 187, 187);
+    text-shadow: 3px 3px 2px slategrey;
+}
+.p123 {
+    color: white;
+    position: relative;
+    left: 200px;
+    top: 135px;
+    font-size: 25px;  
+}
+.p456 {
+    color: white;
+    position: relative;
+    left: 900px;
+    bottom: 200px;
+    font-size: 25px;
+}
+div {
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
